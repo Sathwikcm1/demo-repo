@@ -1,3 +1,3 @@
 # Demo
 
-some description about the current project!!.
+some description about the current project $$
